@@ -1,4 +1,6 @@
-# Movie App
+# Obsolete
+
+This app is deprecated
 Sample App Using The Movie Database API
 
 This app uses:
